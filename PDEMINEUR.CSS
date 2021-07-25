@@ -1,0 +1,75 @@
+
+.box {
+  width: 500px;
+  align-content: center;
+	color:solid black ; 
+}
+
+
+
+.jeu {
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+div {
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+  border:1px #000000 inset;	
+  font-weight:bold;	
+  text-align:center;
+vertical-align:middle;
+
+
+
+}
+.vide {
+  height: 40px;
+  width: 40px;
+  border-color: #f5f3eb #bab7a9 #bab7a9 #fff9db;
+  box-sizing: border-box;
+}
+
+.checked {
+ height: 40px;
+  width: 40px;
+  border: 2px solid;
+  background-color: #cecab7;
+  border-color: #9c998d;
+  box-sizing: border-box;
+}
+
+.bomb {
+  height: 40px;
+  width: 40px;
+  border-color: #f5f3eb #bab7a9 #bab7a9 #fff9db;
+
+  box-sizing: border-box;
+}
+
+.one {
+  color:  purple;
+}
+
+.two {
+  color: green ;
+}
+
+.three {
+  color: pink;
+}
+
+.four{
+  color: orange;
+}
+
+#result {
+  margin-top: 5px;
+  color: #e76346;
+}

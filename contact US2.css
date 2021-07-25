@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: linear-gradient(rgba(0 ,0,150,0.5),rgba(0,0,50,0.5)),url(apps.1282.13510798887052059.3d71e7b4-511d-47b4-9239-1bbdec1bff07.jpg) ;
+	background-position: center;
+	font-family: sans-serif;
+
+}
+.contact-title{
+	color: #fff;
+	text-transform: uppercase;
+	trasition:all 4s ease-in-out;
+}
+.contact-title h1{
+	font-size: 32px;
+	line-height: 10px;
+}
+.contact-title h2{
+	font-size: 16px;
+
+}
+form{
+	margin: 50px;
+	trasition:all 4s ease-in-out;
+}
+.form-control{
+	width: 600px;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	color: #fff;
+	font-size: 18px;
+	margin-bottom: 16px;
+}
+input{
+	height: 45px;
+}
+form .submit{
+	background: #800000;
+	border-color: transparent;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	height: 50px;
+	margin-top: 20px;
+}
+form .submit:hover{
+	background-color: #f44336;
+	cursor: pointer;
+}
+.form-control_deux{
+	width: 600px;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	color: #A52A2A;
+	font-size: 18px;
+	margin-bottom: 16px;
+}
+.contact-title2{
+	color: #fff;
+	text-transform: uppercase;
+	
+}
+.contact-title2 h1{
+	font-size: 25px;
+	
+}
